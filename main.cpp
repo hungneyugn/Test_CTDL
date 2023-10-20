@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main(){
-    cout << "Tung dep trai";
+    cout << "Tung da di";
     return 0;
 }
