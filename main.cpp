@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main(){
-    cout << "Tung dep trai";
+    std :: cout << "Tu boss";
     return 0;
 }
